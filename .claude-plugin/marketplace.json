@@ -1,0 +1,15 @@
+{
+  "name": "docuwriter",
+  "description": "Official DocuWriter.ai plugins for Claude.",
+  "owner": {
+    "name": "DocuWriter.ai",
+    "url": "https://www.docuwriter.ai"
+  },
+  "plugins": [
+    {
+      "name": "docuwriter",
+      "source": "./",
+      "description": "Generate, search, and maintain complete documentation for your codebases with DocuWriter.ai."
+    }
+  ]
+}

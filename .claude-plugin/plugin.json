@@ -1,0 +1,22 @@
+{
+  "name": "docuwriter",
+  "displayName": "DocuWriter.ai",
+  "version": "1.0.0",
+  "description": "Generate, search, and maintain complete documentation for your codebases with DocuWriter.ai: Full Tree Documentation, Spaces, and Autopilot.",
+  "author": {
+    "name": "DocuWriter.ai",
+    "url": "https://www.docuwriter.ai"
+  },
+  "homepage": "https://www.docuwriter.ai",
+  "repository": "https://github.com/DocuWriter-ai/claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://app.docuwriter.ai/privacy-policy",
+  "keywords": [
+    "documentation",
+    "codebase",
+    "repositories",
+    "readme",
+    "autopilot",
+    "mcp"
+  ]
+}
