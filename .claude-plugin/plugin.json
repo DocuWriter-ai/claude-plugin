@@ -8,6 +8,7 @@
     "url": "https://www.docuwriter.ai"
   },
   "homepage": "https://www.docuwriter.ai",
+  "documentationUrl": "https://docs.docuwriter.ai",
   "repository": "https://github.com/DocuWriter-ai/claude-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://app.docuwriter.ai/privacy-policy",
